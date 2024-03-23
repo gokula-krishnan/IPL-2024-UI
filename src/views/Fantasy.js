@@ -68,7 +68,7 @@ class Fantasy extends Component {
 	}
 
 	componentDidMount() {
-		fetch("https://gist.githubusercontent.com/gokula-krishnan/470ed48ea52e4efa8c0609e2f3fdf560/raw/ad2eef3be3678e4de5349223162c35239cf27ce5/ipl2024-player-points.json")
+		fetch("https://gist.githubusercontent.com/gokula-krishnan/470ed48ea52e4efa8c0609e2f3fdf560/raw/ipl2024-player-points.json")
 		.then((res) => res.json())
 		.then((json) => {
 			this.setState({
