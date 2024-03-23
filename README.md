@@ -66,3 +66,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+## reference
+
+1. clone this project
+2. change gist url in line 71 in fantasy.js
+3. npm start to check in local
+4. new github repo for publish
+5. git remote remove origin
+6. git remote origin <<new repo url>>
+7. npm run deploy
