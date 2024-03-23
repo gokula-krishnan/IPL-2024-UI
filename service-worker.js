@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/IPL-2024-UI/precache-manifest.d082a928a259fa946afb9c513a7623c8.js"
+  "/IPL-2024-UI/precache-manifest.0b2e45adc43dae924d825781a04619b4.js"
 );
 
 workbox.clientsClaim();
