@@ -1,15 +1,15 @@
 {
-  "main.css": "/IPL-2024-UI/static/css/main.d1caa4f2.chunk.css",
-  "main.js": "/IPL-2024-UI/static/js/main.4dbd1c31.chunk.js",
-  "main.js.map": "/IPL-2024-UI/static/js/main.4dbd1c31.chunk.js.map",
+  "main.css": "/IPL-2024-UI/static/css/main.eca6c321.chunk.css",
+  "main.js": "/IPL-2024-UI/static/js/main.1f485bf2.chunk.js",
+  "main.js.map": "/IPL-2024-UI/static/js/main.1f485bf2.chunk.js.map",
   "runtime~main.js": "/IPL-2024-UI/static/js/runtime~main.48b7aa7a.js",
   "runtime~main.js.map": "/IPL-2024-UI/static/js/runtime~main.48b7aa7a.js.map",
   "static/css/2.b93a0912.chunk.css": "/IPL-2024-UI/static/css/2.b93a0912.chunk.css",
   "static/js/2.dfd2890e.chunk.js": "/IPL-2024-UI/static/js/2.dfd2890e.chunk.js",
   "static/js/2.dfd2890e.chunk.js.map": "/IPL-2024-UI/static/js/2.dfd2890e.chunk.js.map",
   "index.html": "/IPL-2024-UI/index.html",
-  "precache-manifest.0b2e45adc43dae924d825781a04619b4.js": "/IPL-2024-UI/precache-manifest.0b2e45adc43dae924d825781a04619b4.js",
+  "precache-manifest.68e38b7a106a7325ce21248d53221033.js": "/IPL-2024-UI/precache-manifest.68e38b7a106a7325ce21248d53221033.js",
   "service-worker.js": "/IPL-2024-UI/service-worker.js",
   "static/css/2.b93a0912.chunk.css.map": "/IPL-2024-UI/static/css/2.b93a0912.chunk.css.map",
-  "static/css/main.d1caa4f2.chunk.css.map": "/IPL-2024-UI/static/css/main.d1caa4f2.chunk.css.map"
+  "static/css/main.eca6c321.chunk.css.map": "/IPL-2024-UI/static/css/main.eca6c321.chunk.css.map"
 }
