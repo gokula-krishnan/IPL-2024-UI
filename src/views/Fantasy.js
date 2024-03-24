@@ -561,7 +561,7 @@ class Fantasy extends Component {
 		<div>
 			<Navbar bg="dark" variant="dark">
 				<Navbar.Brand href="/">
-					IPL - 2023
+					IPL - 2024
 				</Navbar.Brand>
 			  </Navbar>		  
 			  <BrowserRouter>		  
