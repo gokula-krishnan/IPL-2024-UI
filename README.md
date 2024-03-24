@@ -76,4 +76,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 4. new github repo for publish
 5. git remote remove origin
 6. git remote origin <<new repo url>>
-7. npm run deploy
+7. change url to "http://<<github_user_name>>.github.io/<<new-repo-name>>" in package.json in homepage field
