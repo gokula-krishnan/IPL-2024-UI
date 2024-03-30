@@ -388,6 +388,7 @@ class Fantasy extends Component {
 		let battingPerfList = [];
 		let bowlingPerfList = [];
 		let fieldingPerfList = [];
+		let motmPerfList = []
 
 		let battingPoints = 0;
 		let bowlingPoints = 0;
@@ -407,6 +408,11 @@ class Fantasy extends Component {
 			fieldingPerfList.push({
 				"label": this.teamIdMap[score['opponentTeamId']],
 				"y": score["fieldingPoints"]
+			});
+
+			motmPerfList.push({
+				"label": this.teamIdMap[score['opponentTeamId']],
+				"y": score["isMOTM"] ? 25 : 0
 			});
 
 			battingPoints += score["battingPoints"];
@@ -455,6 +461,12 @@ class Fantasy extends Component {
 				name: "Fielding",
 				showInLegend: true,
 				dataPoints: fieldingPerfList
+			},
+			{
+				type: "stackedColumn",
+				name: "MOTM",
+				showInLegend: true,
+				dataPoints: motmPerfList
 			}]
 		}
 
